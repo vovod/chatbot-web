@@ -12,5 +12,5 @@
 ### 3. Deploy your web.
 
 # Demo
-<img src="image/screen.gif?raw=true" alt="demo" style="width:700px;height:400px;">
+<img src="image/screen.gif?raw=true" alt="demo" style="width:800px;height:440px;">
 <!-- ![demo](image/screen.gif?raw=true) -->
