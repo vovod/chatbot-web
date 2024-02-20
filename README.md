@@ -13,4 +13,4 @@
 
 # Demo
 
-![demo](image/screen.gif)
+![demo](image/screen.gif?raw=true)
